@@ -30,3 +30,8 @@ gerbers*.zip
 
 # KiCad generated project cache
 bridge1-cache.lib
+
+# JLCPCB plugin outputs
+auto_saved_files
+#auto_saved_files#
+production/
