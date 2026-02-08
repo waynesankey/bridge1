@@ -3764,7 +3764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Wayne:16SVF180M"
 			(at 149.5552 77.47 0)
 			(effects
 				(font
