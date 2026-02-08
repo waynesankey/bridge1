@@ -3379,7 +3379,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba567")
+			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba568")
 		)
 		(instances
 			(project ""
@@ -3446,10 +3446,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3922cf67-b058-4ea0-b3fb-66fd7511ae00")
+			(uuid "3922cf67-b058-4ea0-b3fb-66fd7511ae01")
 		)
 		(pin "2"
-			(uuid "119af6f8-772d-4f4a-a965-c3d0c3288b8a")
+			(uuid "119af6f8-772d-4f4a-a965-c3d0c3288b8b")
 		)
 		(instances
 			(project ""
@@ -3515,7 +3515,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba567")
+			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba569")
 		)
 		(instances
 			(project ""
@@ -3628,7 +3628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_1806_4516Metric"
 			(at 209.55 66.548 90)
 			(effects
 				(font
@@ -3725,7 +3725,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba567")
+			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba56a")
 		)
 		(instances
 			(project ""
@@ -3861,7 +3861,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba567")
+			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba56b")
 		)
 		(instances
 			(project ""
@@ -3900,7 +3900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Wayne:EEE1AA221P"
 			(at 196.5452 77.47 0)
 			(effects
 				(font
@@ -3928,10 +3928,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "758d753c-b2d7-429b-8a3e-9644db267124")
+			(uuid "758d753c-b2d7-429b-8a3e-9644db267125")
 		)
 		(pin "1"
-			(uuid "8feb93e4-c048-4510-a121-7a78ab4d12a2")
+			(uuid "8feb93e4-c048-4510-a121-7a78ab4d12a3")
 		)
 		(instances
 			(project ""
@@ -3997,7 +3997,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba567")
+			(uuid "f2e9abc8-5961-4a2d-8da5-ea4ace9ba56c")
 		)
 		(instances
 			(project ""
@@ -4064,10 +4064,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3922cf67-b058-4ea0-b3fb-66fd7511ae00")
+			(uuid "3922cf67-b058-4ea0-b3fb-66fd7511ae02")
 		)
 		(pin "2"
-			(uuid "119af6f8-772d-4f4a-a965-c3d0c3288b8a")
+			(uuid "119af6f8-772d-4f4a-a965-c3d0c3288b8c")
 		)
 		(instances
 			(project ""
