@@ -35,3 +35,6 @@ bridge1-cache.lib
 auto_saved_files
 \#auto_saved_files#
 production/
+
+# JLCPCB plugin workspace
+jlcpcb/
